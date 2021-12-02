@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\bin\Debug\netcoreapp3.1\employees salary.exe
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\bin\Debug\netcoreapp3.1\employees salary.deps.json
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\bin\Debug\netcoreapp3.1\employees salary.runtimeconfig.json
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\bin\Debug\netcoreapp3.1\employees salary.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\bin\Debug\netcoreapp3.1\employees salary.dll
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\bin\Debug\netcoreapp3.1\employees salary.pdb
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.dll
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.pdb
+C:\Users\Asus\OneDrive\İş masası\Homework class\employees salary\employees salary\obj\Debug\netcoreapp3.1\employees salary.genruntimeconfig.cache
